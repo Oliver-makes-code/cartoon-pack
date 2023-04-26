@@ -1,0 +1,14 @@
+[
+  {
+    when {
+      snowy = false
+    }
+    apply = "block/grass_block"
+  }
+  {
+    when {
+      snowy = true
+    }
+    apply = "block/grass_block_snow"
+  }
+]
