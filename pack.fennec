@@ -1,0 +1,8 @@
+schema = "1.0.0"
+name = "Cartoon Pack"
+description = "A Cartooney Resource Pack"
+namespace = "cartoon_pack"
+version = "1.0.0"
+type = "resource"
+license = "CC0"
+repo = "https://github.com/Oliver-makes-code/cartoon-pack"
